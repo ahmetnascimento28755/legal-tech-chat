@@ -22,3 +22,4 @@ Notes and usage details for legal-tech-chat.
 - add a note about the defaults
 - link the usage section
 - add a note about the defaults
+- link the usage section
