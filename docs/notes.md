@@ -44,3 +44,4 @@ Notes and usage details for legal-tech-chat.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
