@@ -70,3 +70,4 @@ Notes and usage details for legal-tech-chat.
 - fix a small wording issue
 - link the usage section
 - add a note about the defaults
+- fix a small wording issue
